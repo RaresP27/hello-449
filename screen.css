@@ -37,7 +37,6 @@ h2 {
 }
 body{
     display: flex;
-    justify-content: center;
     flex-direction: column;
     margin: 60px;
     padding-left: 200px;
